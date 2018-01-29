@@ -1,0 +1,54 @@
+// shell.adoc
+:author: Ludovic Drouineau
+:title: Cours C
+:source: csi1.adoc[Source Text]
+:toc: left
+:numbered:
+
+//include::menu-include.adoc[]
+
+// Macro definitions for this file only
+
+
+- - -
+
+= {title}
+
+_by {Author}_
+
+- - -
+
+== Cours
+
+=== Séances
+
+link:Seance_1.pdf[Cours 1]
+
+link:Seance_2.pdf[Cours 2]
+
+=== Correction Séances
+
+link:corrections/exo1.c[Correction exo1 séance2]
+
+link:corrections/exo2.c[Correction exo2 séance2]
+
+link:corrections/makefile[Correction makefile séance2]
+
+link:corrections/exo3.c[Correction exo3 séance2]
+
+
+=== Fiches
+
+link:Fiches/Fiche0_Table_ASCII.pdf[Table ASCII]
+
+link:Fiches/Fiche1_Structure_Generale_Programme_C.pdf[Structure Générale d'un programme C]
+
+link:Fiches/Fiche2_Variables_simples.pdf[Variables Simples]
+
+link:Fiches/Fiche3_Entrees_Sorties.pdf[Entrées Sorties]
+
+link:Fiches/Fiche4_printf.pdf[Printf]
+
+link:Fiches/Fiche5_scanf.pdf[Scanf]
+
+link:Fiches/Fiche6_Boucles.pdf[Les boucles]

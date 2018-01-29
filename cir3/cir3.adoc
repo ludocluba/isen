@@ -1,0 +1,51 @@
+// shell.adoc
+:author: Ludovic Drouineau
+:title: Cours Bash CIR3
+:doctype: article
+:source: cir3.adoc[Source Text]
+:toc: left
+:numbered:
+
+//include::menu-include.adoc[]
+
+// Macro definitions for this file only
+
+
+- - -
+
+= {title}
+
+_by {Author}_
+
+- - -
+
+== Cours
+
+link:cours/1_Introduction_Shell.pdf[Introduction Shell]
+
+link:cours/2_Script_Bash_Debut.pdf[Script Bash Debut]
+
+link:cours/3_Script_Bash_Avance.pdf[Script Bash Avancé]
+
+link:cours/4_Echo_ANSI_VT100.pdf[Echo Ansi VT100]
+
+link:cours/5_Operateur_Arithmetiques.pdf[Opérateur Arithmétique]
+
+link:cours/6_Structure_For_If.pdf[Structure For If]
+
+link:cours/7_Les_Fonctions.pdf[Les Fonctions]
+
+link:cours/8_Conception_Interfaces.pdf[Conception Interfaces]
+
+link:cours/9_Gestion_parametres.pdf[Gestion parametres]
+
+link:cours/10_Sed_Awk.pdf[Sed Awk]
+
+
+== TP
+
+=== Enoncé
+
+
+=== Corrections
+

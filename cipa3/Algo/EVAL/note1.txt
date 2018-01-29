@@ -1,0 +1,20 @@
+								Moyenne (arrondie au demi point supérieur)
+Adam Duyt			5		7		6
+Alexandre Simon			18.5		19		19
+Alexandre Guillerm		6		5		5.5
+Baptiste Reneau			8.5		6		7.5
+Brice Le touze			6		12		9
+Damien Creignou			8.5		7		8
+Eloi quillet			18		16		17
+Hugues Rime			20		17		18.5
+Jordane Domesor			4		2		3
+Julien Goyat			9.5		10		10
+Julien Savy			15.5		12		14
+Julien Tusseau			9.5		8		9
+Lesly Mongin			12		8		10
+Louis Faidherbe			7.5		12		10
+Max Roussigne			5		6		5.5
+Pierre Geraud			9.5		15		12.5
+Thomas Naulleau			13		Abs		
+Xavier Marchadour		6		8		7
+
