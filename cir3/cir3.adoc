@@ -44,8 +44,6 @@ link:cours/10_Sed_Awk.pdf[Sed Awk]
 
 == TP
 
-=== Enoncé
-
-
 === Corrections
 
+link:tp1/tp1.tar[Correction TP1]
