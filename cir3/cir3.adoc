@@ -46,4 +46,4 @@ link:cours/10_Sed_Awk.pdf[Sed Awk]
 
 === Corrections
 
-link:tp1/tp1.tar[Correction TP1]
+link:tp/tp1.tar[Correction TP1]
