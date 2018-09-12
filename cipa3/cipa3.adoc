@@ -32,37 +32,37 @@ link:Algo/TD/TD4_algo_fonctions.pdf[TD4 fonctions]
 
 === Corrections
 
-link:Algo/TD/TD1_algo_bases_correction.pdf[TD1 algo bases correction]
+// link:Algo/TD/TD1_algo_bases_correction.pdf[TD1 algo bases correction]
 
-link:Algo/TD/TD2_algo_bases_correction.pdf[TD2 algo bases correction]
+// link:Algo/TD/TD2_algo_bases_correction.pdf[TD2 algo bases correction]
 
 == TP
 
 === Enoncé
 
-link:Algo/TP/tp1_algo_entrees_sorties.pdf[TP1 algo entrées sorties]
+// link:Algo/TP/tp1_algo_entrees_sorties.pdf[TP1 algo entrées sorties]
 
-link:Algo/TP/tp2_algo_boucles.pdf[TP2 algo boucles]
+// link:Algo/TP/tp2_algo_boucles.pdf[TP2 algo boucles]
 
-link:Algo/TP/tp3_algo_chaines.pdf[TP3 algo chaines]
+// link:Algo/TP/tp3_algo_chaines.pdf[TP3 algo chaines]
 
-link:Algo/TP/tp4_algo_crypto.pdf[TP4 algo crypto]
+// link:Algo/TP/tp4_algo_crypto.pdf[TP4 algo crypto]
 
-link:Algo/TP/tp5_algo_medecin.pdf[TP5 algo medecin]
+// link:Algo/TP/tp5_algo_medecin.pdf[TP5 algo medecin]
 
 === Corrections
 
-link:Algo/TP/TP1.tar[Correction TP1]
+// link:Algo/TP/TP1.tar[Correction TP1]
 
-link:Algo/TP/TP2.tar[Correction TP2]
+// link:Algo/TP/TP2.tar[Correction TP2]
 
-link:Algo/TP/TP3.tar[Correction TP3]
+// link:Algo/TP/TP3.tar[Correction TP3]
 
-link:Algo/TP/tp4.c[Correction TP4]
+// link:Algo/TP/tp4.c[Correction TP4]
 
-link:Algo/TP/tp5.c[Correction TP5]
+// link:Algo/TP/tp5.c[Correction TP5]
 
-link:Algo/TP/tp5_file.c[Correction TP5 complet]
+// link:Algo/TP/tp5_file.c[Correction TP5 complet]
 
 == Allocation mémoire
 
@@ -74,8 +74,8 @@ link:Algo/TP/comp.c[Exemple nombres complexes]
 
 == Evaluations
 
-link:Algo/EVAL/EvaluationCIPA3.pdf[Evaluation 1]
+// link:Algo/EVAL/EvaluationCIPA3.pdf[Evaluation 1]
 
-link:Algo/EVAL/EvaluationCIPA3_2.pdf[Evaluation 2]
+// link:Algo/EVAL/EvaluationCIPA3_2.pdf[Evaluation 2]
 
-link:Algo/EVAL/note1.txt[Notes]
+// link:Algo/EVAL/note1.txt[Notes]
