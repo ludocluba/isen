@@ -32,15 +32,15 @@ link:Algo/TD/TD4_algo_fonctions.pdf[TD4 fonctions]
 
 === Corrections
 
-// link:Algo/TD/TD1_algo_bases_correction.pdf[TD1 algo bases correction]
+link:Algo/TD/TD1_algo_bases_correction.pdf[TD1 algo bases correction]
 
-// link:Algo/TD/TD2_algo_bases_correction.pdf[TD2 algo bases correction]
+link:Algo/TD/TD2_algo_bases_correction.pdf[TD2 algo bases correction]
 
 == TP
 
 === Enoncé
 
-// link:Algo/TP/tp1_algo_entrees_sorties.pdf[TP1 algo entrées sorties]
+link:Algo/TP/tp1_algo_entrees_sorties.pdf[TP1 algo entrées sorties]
 
 // link:Algo/TP/tp2_algo_boucles.pdf[TP2 algo boucles]
 
