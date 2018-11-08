@@ -114,7 +114,7 @@ int main() {
 
 link:Algo/TP/tp1_algo_entrees_sorties.pdf[TP1 algo entrées sorties]
 
-// link:Algo/TP/tp2_algo_boucles.pdf[TP2 algo boucles]
+link:Algo/TP/tp2_algo_boucles.pdf[TP2 algo boucles]
 
 // link:Algo/TP/tp3_algo_chaines.pdf[TP3 algo chaines]
 
@@ -124,7 +124,7 @@ link:Algo/TP/tp1_algo_entrees_sorties.pdf[TP1 algo entrées sorties]
 
 === Corrections
 
-// link:Algo/TP/TP1.tar[Correction TP1]
+link:Algo/TP/TP1.tar[Correction TP1]
 
 // link:Algo/TP/TP2.tar[Correction TP2]
 
