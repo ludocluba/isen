@@ -126,7 +126,7 @@ link:Algo/TP/tp3_algo_chaines.pdf[TP3 algo chaines]
 
 link:Algo/TP/TP1.tar[Correction TP1]
 
-// link:Algo/TP/TP2.tar[Correction TP2]
+link:Algo/TP/TP2.tar[Correction TP2]
 
 // link:Algo/TP/TP3.tar[Correction TP3]
 
