@@ -128,7 +128,7 @@ link:Algo/TP/TP1.tar[Correction TP1]
 
 link:Algo/TP/TP2.tar[Correction TP2]
 
-// link:Algo/TP/TP3.tar[Correction TP3]
+link:Algo/TP/TP3.tar[Correction TP3]
 
 // link:Algo/TP/tp4.c[Correction TP4]
 
