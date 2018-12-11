@@ -48,9 +48,10 @@ link:Algo/TP/tp2_algo_boucles.pdf[TP2 algo boucles]
 
 link:Algo/TP/tp3_algo_chaines.pdf[TP3 algo chaines]
 
-// link:Algo/TP/tp4_algo_crypto.pdf[TP4 algo crypto]
-
 link:Algo/TP/tp5_algo_medecin.pdf[TP4 algo medecin]
+
+link:Algo/TP/tp4_algo_crypto.pdf[Algo crypto]
+
 
 === Corrections
 
