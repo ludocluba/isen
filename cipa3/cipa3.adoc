@@ -90,7 +90,7 @@ link:Algo/TP/comp.c[Exemple nombres complexes]
 | CORNET	Thomas	|	18,5
 | CORYN	Gérôme	|	10,5
 | DAVID	Louis Sebastien	|	12
-| GUILLERM	Alexandre	|	5
+| GUILLERM	Alexandre	|	8
 | JEZEQUEL	Brendan		|	8
 | LABBE	Teiva	|	12,5
 | LE BRIS	Léo		|	12
