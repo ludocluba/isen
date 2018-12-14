@@ -52,6 +52,7 @@ link:Algo/TP/tp5_algo_medecin.pdf[TP4 algo medecin]
 
 link:Algo/TP/tp4_algo_crypto.pdf[Algo crypto]
 
+link:Algo/TP/tp_liste_chaine.pdf[Algo liste Chainée]
 
 === Corrections
 
@@ -75,7 +76,42 @@ link:Algo/Allocation_memoire_en_C.pdf[Allocation mémoire en C]
 
 link:Algo/TP/comp.c[Exemple nombres complexes]
 
-== Evaluations
+== Notes 1ere évaluation
+
+.Notes 1
+[width="100%",options=""]
+|====================
+| ADENIS	Kévin | 	11,5
+| BERRE	Antonin	| 20
+| BERRY-CROGUENNEC	Cedric |	6
+| BILLANT	Guillaume |	12
+| BODIN	Jérémy	|	10
+| CABON	Benoit	|	5,5
+| CORNET	Thomas	|	18,5
+| CORYN	Gérôme	|	10,5
+| DAVID	Louis Sebastien	|	12
+| GUILLERM	Alexandre	|	5
+| JEZEQUEL	Brendan		|	8
+| LABBE	Teiva	|	12,5
+| LE BRIS	Léo		|	12
+| LE CALVEZ	Agathe	| 10
+| LE MOAL	Carole		|	5
+| LE PETILLON	Sylvain		|	15
+| MARCHADOUR	Xavier		|	11,5
+| MORICEAU	Quentin	|	7
+| POUTOT	Julien		|	15
+| PRIOL	Thomas		|	13,5
+| PROVOST	Romain		|	13,5
+| PUECH	Nicolas	| 13
+| RIVOAL	Quentin		|	8,5
+| ROUSSEAU	Raphaël		|	9
+| SERRAND	Quentin		|	10
+| THOORENS	Francois		|	16
+| VANOUCHE	Teva		|	15
+| VOURCH	Corentin		|	14,5
+|====================
+
+== Corrections
 
 // link:Algo/EVAL/EvaluationCIPA3.pdf[Evaluation 1]
 
