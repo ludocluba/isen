@@ -62,7 +62,7 @@ link:Algo/TP/TP2.tar[Correction TP2]
 
 link:Algo/TP/TP3.tar[Correction TP3]
 
-link:Algo/TP/TP4.tar[TP4 Etat actuel]
+link:Algo/TP/TP4.tar[Correction TP4]
 
 link:Algo/TP/LISTE_CHAINEE.tar[Correction Liste Chainée]
 
