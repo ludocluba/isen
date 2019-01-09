@@ -81,32 +81,48 @@ link:Algo/TP/comp.c[Exemple nombres complexes]
 .Notes 1
 [width="100%",options=""]
 |====================
-| ADENIS	Kévin | 	11,5
-| BERRE	Antonin	| 20
-| BERRY-CROGUENNEC	Cedric |	6
-| BILLANT	Guillaume |	12
-| BODIN	Jérémy	|	10
-| CABON	Benoit	|	5,5
-| CORNET	Thomas	|	18,5
-| CORYN	Gérôme	|	10,5
-| DAVID	Louis Sebastien	|	12
-| GUILLERM	Alexandre	|	8
-| JEZEQUEL	Brendan		|	8
-| LABBE	Teiva	|	12,5
-| LE BRIS	Léo		|	12
-| LE CALVEZ	Agathe	| 10
-| LE MOAL	Carole		|	5
-| LE PETILLON	Sylvain		|	15
-| MARCHADOUR	Xavier		|	11,5
-| MORICEAU	Quentin	|	7
-| POUTOT	Julien		|	15
-| PRIOL	Thomas		|	13,5
-| PROVOST	Romain		|	13,5
-| PUECH	Nicolas	| 13
-| RIVOAL	Quentin		|	8,5
-| ROUSSEAU	Raphaël		|	9
-| SERRAND	Quentin		|	10
-| THOORENS	Francois		|	16
+| Elèves | Note1 | Note2 | Note finale 
+| ADENIS	Kévin | 	11,5 | X | 11,5
+| BERRE	Antonin	| 20 | 14,5 | 17,5 
+| BERRY-CROGUENNEC	Cedric |	6 | 14 | 10
+| BILLANT	Guillaume |	12 | 10 | 11
+| BODIN	Jérémy	|	10 | 15 | 12,5
+| CABON	Benoit	|	5,5 | 8,5 | 7
+| CORNET	Thomas	|	18,5 | 18 | 18,5
+| CORYN	Gérôme	|	10,5 | 13 | 12
+| DAVID	Louis Sebastien	|	12 | 14 | 13
+| GUILLERM	Alexandre	|	8 | 10 | 9
+| JEZEQUEL	Brendan		|	8 | 11 | 9,5
+| LABBE	Teiva	|	12,5 | 10,5 | 11,5
+| LE BRIS	Léo		|	12 | 17 | 14,5
+| LE CALVEZ	Agathe	| 10 | 10 | 10
+| LE MOAL	Carole		|	5 | 12,5 | 9
+| LE PETILLON	Sylvain		|	15 | 11 | 13
+| MARCHADOUR	Xavier		|	11,5 | 10 | 11
+| MORICEAU	Quentin	|	7 | 8 | 7,5
+| POUTOT	Julien		|	15 | 13 | 14
+| PRIOL	Thomas		|	13,5 | 12 | 13
+| PROVOST	Romain		|	13,5 | 12 | 13
+| PUECH	Nicolas	| 13 | 12 | 12,5
+| RIVOAL	Quentin		|	8,5 | 8,5 | 8,5
+| ROUSSEAU	Raphaël		|	9 | 11 | 10
+| SERRAND	Quentin		|	10 | 11 | 10,5
+| THOORENS	Francois		|	16 | 13 | 14,5
+| VANOUCHE	Teva		|	15 | 10,5 | 13
+| VOURCH	Corentin		|	14,5 | 11 | 13
+|====================
+
+== Corrections
+
+// link:Algo/EVAL/EvaluationCIPA3.pdf[Evaluation 1]
+
+// link:Algo/EVAL/EvaluationCIPA3_2.pdf[Evaluation 2]
+
+// link:Algo/EVAL/note1.txt[Notes]
+
+* Code C du lendemain:
+
+[source, C]rancois		|	16
 | VANOUCHE	Teva		|	15
 | VOURCH	Corentin		|	14,5
 |====================
