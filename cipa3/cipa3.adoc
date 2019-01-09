@@ -102,7 +102,7 @@ link:Algo/TP/comp.c[Exemple nombres complexes]
 | MORICEAU	Quentin	|	7 | 8 | 7,5
 | POUTOT	Julien		|	15 | 13 | 14
 | PRIOL	Thomas		|	13,5 | 12 | 13
-| PROVOST	Romain		|	13,5 | 12 | 13
+| PROVOST	Romain		|	13,5 | 13,5 | 13,5
 | PUECH	Nicolas	| 13 | 12 | 12,5
 | RIVOAL	Quentin		|	8,5 | 8,5 | 8,5
 | ROUSSEAU	Raphaël		|	9 | 11 | 10
